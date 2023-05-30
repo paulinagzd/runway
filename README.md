@@ -16,17 +16,15 @@
 
 ## Examples
 #### Rendering all reviews
-![](README.md/Screenshot%202023-05-30%20at%2010.21.48.png)
-
+<img width="1440" alt="Screenshot 2023-05-30 at 10 21 48" src="https://github.com/paulinagzd/runway/assets/31547357/bbbcb239-07d9-470a-917e-21673c4398f7">
 
 #### Rendering review from specific days
-![](README.md/Screenshot%202023-05-30%20at%2010.23.52.png)
-![](README.md/Screenshot%202023-05-30%20at%2010.36.25.png)
-![](README.md/Screenshot%202023-05-30%20at%2010.43.53.png)
+<img width="1440" alt="Screenshot 2023-05-30 at 10 23 52" src="https://github.com/paulinagzd/runway/assets/31547357/dc31a9fe-23ec-4129-87b7-bc6fd7068e48">
+<img width="1046" alt="Screenshot 2023-05-30 at 10 36 25" src="https://github.com/paulinagzd/runway/assets/31547357/f39e6e0d-30bf-44b6-8dce-6832daf2d0bf">
+<img width="1360" alt="Screenshot 2023-05-30 at 10 43 53" src="https://github.com/paulinagzd/runway/assets/31547357/2a543f36-2581-43bd-8650-a5b46c3e1a21">
 
 #### Renders empty component
-![](README.md/Screenshot%202023-05-30%20at%208.44.19.png)
-
+<img width="902" alt="Screenshot 2023-05-30 at 8 44 19" src="https://github.com/paulinagzd/runway/assets/31547357/ca455d6b-07ad-49c0-8e86-0efce8a2ccbd">
 
 ### Obstacles
 1. A dreaded triple-threat on my machine (no proper setup for web/mobile dev in this laptop, storage too full for a software update and the re-downloading of dev tools on the limited storage). I’m used to long setup processes on work laptops and using my personal computer for one took more time than I’d like, making my delivery a bit later than I would have wanted.
