@@ -1,0 +1,9 @@
+.card {
+  flex-direction: 'row';
+  margin: 10;
+  border-radius: 15;
+  max-width: 25%;
+  height: 15% !important;
+  justify-content: space-between;
+  align-items: stretch;
+};
